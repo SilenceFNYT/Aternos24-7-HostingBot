@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Silence-xqm8.aternos.me",
+    "port": 42313,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe To @Silence_GT",
+        "Subscribe To @Silence_GT!",
+        "Subscribe To @Silence_GT!"
       ]
     },
     "chat-log": true,
